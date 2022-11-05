@@ -1,0 +1,19 @@
+Frontend App
+
+
+Build it with any front end framework you know :
+
+
+1) The home page should display a table with a list of products. The attributes to display would be Product Name, Price & Quantity
+2) The table should have edit functionality where a button will open a popup to edit the product details.
+3) There should be an "add new" button which should open a popup to accept new product info & should add it to the table.
+4) There should be a search box to search products. Search should happen on the product name.
+
+
+Link the above app with Backend APIs (Fast API/Flask/Django)
+1) API to save new additions & updates of products.
+2) API to return search results based on the query.
+
+
+Storage
+1) Save the additions & updations of products in any relational db
